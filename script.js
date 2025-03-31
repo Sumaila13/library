@@ -58,8 +58,8 @@ function displayLibrary() {
 // Add some test books
 data = [
   ["The Hobbit", "J.R.R. Tolkien", 310, true],
-  ["1984", "George Orwell", 328, false],
-  ["To Kill a Mockingbird", "Harper Lee", 281, true],
+  ["1984", "George Orwell", 330, false],
+  ["To Kill a Mockingbird", "Harper Lee", 456, true],
   
 
 ];
